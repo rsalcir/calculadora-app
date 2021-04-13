@@ -3,8 +3,7 @@
 Projeto construido em react-native para criar uma calculadora.
 
 ## Telas
-![screenshot](tela.png)
-
+<img src="tela.png" height="48">
 
 ## ⚙️ Como executar o projeto
 ```bash
